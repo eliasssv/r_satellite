@@ -12,8 +12,8 @@ O banco de dados se encontra no pacote mlbench e é completo (não possui dados 
 
 Tarefas:
 
-Treine modelos RandomForest, SVM e RNA para predição destes dados. 
-Escolha o melhor modelo com base em suas matrizes de confusão. 
-Treine o modelo final com todos os dados e faça a predição na base completa. 
-Analise o resultado.
-Salve este modelo final 
+- Treine modelos RandomForest, SVM e RNA para predição destes dados. 
+- Escolha o melhor modelo com base em suas matrizes de confusão. 
+- Treine o modelo final com todos os dados e faça a predição na base completa. 
+- Analise o resultado.
+- Salve este modelo final 
